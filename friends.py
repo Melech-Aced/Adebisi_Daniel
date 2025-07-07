@@ -1,7 +1,7 @@
 range(1,101)
 
 
-
+#This is a search stuff... ionno...
 
 
 for r in range(1,101):
