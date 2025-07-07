@@ -1,4 +1,24 @@
-# Adebisi_Daniel
+Adebisi Daniel Oluwatosin - [designingzion@gmail.com](designingzion@gmail.com) 
+Instructor: Mubaraq - [github.com/mubarraqqq](https://github.com/mubarraqqq)
+
+
+
+#File manager : Adebisi_Daniel
+#Contributors : Mubaraq @ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Assignment 2
 
 Before attempting your assignment, make sure you watch this video: How To Use GitHub For Beginners
