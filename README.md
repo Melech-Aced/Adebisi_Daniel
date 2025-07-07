@@ -1,21 +1,8 @@
-Adebisi Daniel Oluwatosin - [designingzion@gmail.com](designingzion@gmail.com) 
-Instructor: Mubaraq - [github.com/mubarraqqq](https://github.com/mubarraqqq)
+Just playing around...
 
-
-
-#File manager : Adebisi_Daniel
-#Contributors : Mubaraq @ 
-
-
-
-
-
-
-
-
-
-
-
+Contributors:
+Githolder: Adebisi Daniel Oluwatosin - [Mail me here](designingzion@gmail.com) 
+Instructor: Mubaraq Onipede (At least that's what his git says). [Link up @ git](https://github.com/mubarraqqq)
 
 
 
