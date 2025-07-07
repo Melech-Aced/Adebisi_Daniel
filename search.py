@@ -4,6 +4,7 @@ fruit_list=["apple","banana","cherry","eggplant","dates","fig","guava","hawthorn
 #print(fruit_list.sort(reverse=True,))
 print(fruit_list.sort())
 
+#always playing till stated serious
 
 print("what are you looking for?")
 search = input()
